@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "file": "p6_train.py",
+      "original_sha256": "660beff2d0c5d446e3c103f17776be979d7a0904a9f3388be06d46b2233b0104",
+      "note": "Locomotion packaging; vendor bootstrap added. Runner environment dispatch restricted to three locomotion tasks."
+    },
+    {
+      "file": "p6_runtime.py",
+      "original_sha256": "d42e4cfe7312eefe99ce8062ac978de7a563b1c93a5d7148cf463e9afbcaf287",
+      "note": "Locomotion packaging; vendor bootstrap added. Runner environment dispatch restricted to three locomotion tasks."
+    },
+    {
+      "file": "p6_checkpointing.py",
+      "original_sha256": "c39de68869c986da2c8158be9fe4da24b06d93560bf5ba25ed0b6258bd9ea57a",
+      "note": "Locomotion packaging; vendor bootstrap added. Runner environment dispatch restricted to three locomotion tasks."
+    },
+    {
+      "file": "p6_branching.py",
+      "original_sha256": "592a71ec6416fe56d4a8fe4ce84a13934f0a71f36f60b9f918ceeda6f3f77ce3",
+      "note": "Locomotion packaging; vendor bootstrap added. Runner environment dispatch restricted to three locomotion tasks."
+    },
+    {
+      "file": "p6_evaluation.py",
+      "original_sha256": "cfe440abf2fbd38e85f338e5eb68afaf4904c3daca70c70d3a558ab1bf0b361d",
+      "note": "Locomotion packaging; vendor bootstrap added. Runner environment dispatch restricted to three locomotion tasks."
+    },
+    {
+      "file": "p6_preflight.py",
+      "original_sha256": "9b6f931fd5ec9518ebbd96f04db53ced7850f3a15f5e54c3360c3e4773471400",
+      "note": "Locomotion packaging; vendor bootstrap added. Runner environment dispatch restricted to three locomotion tasks."
+    },
+    {
+      "file": "project_run_naming.py",
+      "original_sha256": "bbc629e1b260894112e00eed948b854e5038f3859d34e9395e8ff08ba80b6423",
+      "note": "Locomotion packaging; vendor bootstrap added. Runner environment dispatch restricted to three locomotion tasks."
+    },
+    {
+      "file": "vendor/stable-baselines3/stable_baselines3/dsrl/hierarchical_rfs_dsrl.py",
+      "original_sha256": "936f8e6b7604f973dff72145710ab2247b80a6f6c8d4a688a6fc83e045a94370",
+      "note": "Byte-identical algorithm source"
+    },
+    {
+      "file": "vendor/stable-baselines3/stable_baselines3/dsrl/hierarchical_replay_buffer.py",
+      "original_sha256": "6ce702cb84afc4e20a44ca966beaa0f2178aeae4f179632363445960ce5f0b14",
+      "note": "Byte-identical algorithm source"
+    },
+    {
+      "file": "vendor/stable-baselines3/stable_baselines3/dsrl/hierarchy_schedule.py",
+      "original_sha256": "bafedfb010c2c48dfffb52dae14beae24d973da69d6a55c75cfb221126c1e5a7",
+      "note": "Byte-identical algorithm source"
+    },
+    {
+      "file": "vendor/stable-baselines3/stable_baselines3/dsrl/dsrl.py",
+      "original_sha256": "41dc8cfb86b8640284eb29f9b5b585e9906e93c30e7dfe684dd7da8adcbf6bc8",
+      "note": "Byte-identical algorithm source"
+    }
+  ],
+  "scope": "Locomotion source only. No research-repository history or internal development documents."
+}
